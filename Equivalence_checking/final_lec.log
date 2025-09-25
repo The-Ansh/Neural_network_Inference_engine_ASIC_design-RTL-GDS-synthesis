@@ -1,0 +1,89 @@
+                          CONFORMAL (R)
+                   Version 24.10-s400 (28-Apr-2025) (64 bit executable)
+   Copyright (c) Cadence Design Systems, Inc., 1997-2024. All Rights Reserved
+
+
+This program is proprietary and confidential information belonging to
+Cadence Design Systems, Inc., and may be used and disclosed only as authorized
+in a license agreement controlling such use and disclosure.
+
+// Command: read library ./slow_vdd1v0_basicCells.v -verilog -both
+// Parsing file ./slow_vdd1v0_basicCells.v ...
+// Warning: (RTL14.1) Fanout load of the signal is removed (occurrence:56)
+// Warning: (VLG5.5) Internal primitive is recognized (occurrence:120)
+// Warning: (VLG5.6) Named port association is ignored for primitive gate (occurrence:120)
+// Warning: (IGN7.1) trireg net is modeled as a latch to hold value (occurrence:1)
+// Warning: (HRC1.4) Module/entity is empty (blackboxed) (occurrence:1)
+// Note: (HRC3.5b) Open output port connection is detected (occurrence:48)
+// Warning: (HRC3.10b) An input port is declared, but it is not used. Module is empty (occurrence:1)
+// Note: Read VERILOG library successfully
+// Command: read design ../synthesis/preopt_netlist.v -verilog -golden 
+// Parsing file ../synthesis/preopt_netlist.v ...
+// Golden root module is set to 'my_top_design'
+// Warning: (RTL14) Signal has input but it has no output (occurrence:245)
+// Note: Read VERILOG design successfully
+CPU time     : 0.44    seconds
+Elapse time  : 0       seconds
+Memory usage : 129.61  M bytes
+// Command: read design ../synthesis/final_netlist.v -verilog -revised
+// Parsing file ../synthesis/final_netlist.v ...
+// Revised root module is set to 'my_top_design'
+// Warning: (RTL2.13) Undriven pin is detected (occurrence:14)
+// Warning: (RTL14) Signal has input but it has no output (occurrence:34)
+// Warning: (RTL14.1) Fanout load of the signal is removed (occurrence:1)
+// Warning: There are 14 undriven nets in Revised
+// Warning: There are 14 undriven pins in Revised
+// Note: Read VERILOG design successfully
+CPU time     : 0.73    seconds
+Elapse time  : 0       seconds
+Memory usage : 140.76  M bytes
+// Command: set system mode lec
+// Processing Golden ...
+// Modeling Golden ...
+// Processing Revised ...
+// Modeling Revised ...
+// (F28) Converted 14 internal output port(s) to inout port(s)
+CPU time     : 1.07    seconds
+Elapse time  : 1       seconds
+Memory usage : 181.72  M bytes
+// Mapping key points ...
+================================================================================
+Mapped points: SYSTEM class
+--------------------------------------------------------------------------------
+Mapped points     PI     PO     DFF       Total   
+--------------------------------------------------------------------------------
+Golden            18     11     905       934     
+--------------------------------------------------------------------------------
+Revised           18     11     905       934     
+================================================================================
+// Command: add compare point -all
+// 916 compared points added to compare list
+// Command: compare
+================================================================================
+Compared points      PO     DFF       Total   
+--------------------------------------------------------------------------------
+Equivalent           11     905       916     
+================================================================================
+CPU time     : 1.48    seconds
+Elapse time  : 1       seconds
+Memory usage : 203.03  M bytes
+// Command: report verification 
+================================================================================
+                            Verification Report
+--------------------------------------------------------------------------------
+Category                                                                  Count
+--------------------------------------------------------------------------------
+1. Non-standard modeling options used:                                      0
+--------------------------------------------------------------------------------
+2. Incomplete verification:                                                 0
+--------------------------------------------------------------------------------
+3. User modification to design:                                             0
+--------------------------------------------------------------------------------
+4. Conformal Constraint Designer clock domain crossing checks recommended:  0
+--------------------------------------------------------------------------------
+5. Design ambiguity:                                                        0
+--------------------------------------------------------------------------------
+6. Compare Results:                                                        PASS
+================================================================================
+
+Standard input has been closed.

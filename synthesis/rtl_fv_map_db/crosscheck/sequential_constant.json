@@ -1,0 +1,428 @@
+{
+ "filetype": "conformal-table",
+ "data": [
+  {
+   "Object": "/instanceL2/out_reg_reg[0][16]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[0][17]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[1][17]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[2][16]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[2][17]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[3][16]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[3][17]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[4][16]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[4][17]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[5][16]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[5][17]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[6][17]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[7][17]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[8][16]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[8][17]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[9][17]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[3][15]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[4][15]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[6][16]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[7][16]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[0][15]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[1][16]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[5][15]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[8][15]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[2][15]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL2/out_reg_reg[8][14]",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "0",
+   "highlite": 0
+  },
+  {
+   "Object": "/instanceL1/out_reg[0][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL1/out_reg[1][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL1/out_reg[3][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL1/out_reg[4][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL1/out_reg[5][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL1/out_reg[7][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL1/out_reg[10][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL1/out_reg[12][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL1/out_reg[13][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL1/out_reg[14][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL1/out_reg[15][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL1/out_reg[16][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL1/out_reg[18][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL1/out_reg[19][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL1/out_reg[11][8]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  }
+ ],
+ "cols": [
+  {
+   "key": "Object"
+  },
+  {
+   "key": "Type"
+  },
+  {
+   "key": "Design"
+  },
+  {
+   "key": "User Setup constant"
+  },
+  {
+   "key": "LEC constant"
+  }
+ ],
+ "sort": [
+  "-highlite"
+ ]
+}

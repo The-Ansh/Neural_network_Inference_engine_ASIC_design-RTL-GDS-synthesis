@@ -1,0 +1,46 @@
+{
+ "filetype": "conformal-table",
+ "data": [
+  {
+   "Object": "/instanceL2/out_reg[9][16]",
+   "Type": "DFF/DLAT",
+   "Design": "G",
+   "User Setup constant": "0",
+   "LEC constant": "",
+   "highlite": 1,
+   "Object:style": "color:red",
+   "Type:style": "color:red",
+   "Design:style": "color:red",
+   "User Setup constant:style": "color:red",
+   "LEC constant:style": "color:red"
+  },
+  {
+   "Object": "/instanceL2_out_reg_reg[9][16]/U$1",
+   "Type": "DFF",
+   "Design": "G",
+   "User Setup constant": "",
+   "LEC constant": "0",
+   "highlite": 0
+  }
+ ],
+ "cols": [
+  {
+   "key": "Object"
+  },
+  {
+   "key": "Type"
+  },
+  {
+   "key": "Design"
+  },
+  {
+   "key": "User Setup constant"
+  },
+  {
+   "key": "LEC constant"
+  }
+ ],
+ "sort": [
+  "-highlite"
+ ]
+}

@@ -1,0 +1,12 @@
+#e1(22Sep2025:12:49:59): source ./xcelium.d/env.d/env.history.22Sep2025_12_49_59
+s1(22Sep2025:12:49:59):  xrun -gui -access +rwc testbench.v ../rtl/complete_nn.v 
+#e2(22Sep2025:12:58:17): source ./xcelium.d/env.d/env.history.22Sep2025_12_58_17
+s2(22Sep2025:12:58:17):  xrun -gui -access +rwc testbench.v complete_nn.v 
+#e3(22Sep2025:12:58:47): source ./xcelium.d/env.d/env.history.22Sep2025_12_58_47
+s3(22Sep2025:12:58:47):  xrun -gui -access +rwc testbench.v 
+#e4(22Sep2025:13:00:55): source ./xcelium.d/env.d/env.history.22Sep2025_13_00_55
+s4(22Sep2025:13:00:55):  xrun -gui -access +rwc testbench.v 
+#e5(22Sep2025:13:03:24): source ./xcelium.d/env.d/env.history.22Sep2025_13_03_24
+s5(22Sep2025:13:03:24):  xrun -gui -access +rwc testbench.v 
+#e6(22Sep2025:13:04:23): source ./xcelium.d/env.d/env.history.22Sep2025_13_04_23
+s6(22Sep2025:13:04:23):  xrun -gui -access +rwc testbench.v 

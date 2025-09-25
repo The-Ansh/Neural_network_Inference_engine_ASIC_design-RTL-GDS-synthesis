@@ -1,0 +1,244 @@
+xrun(64): 24.09-s012: (c) Copyright 1995-2025 Cadence Design Systems, Inc.
+TOOL:	xrun(64)	24.09-s012: Started on Sep 22, 2025 at 13:04:22 EDT
+xrun
+	-gui
+	-access +rwc
+	testbench.v
+DEFINE Lab_2	/shared_folder/Lab_2
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,6): cds.lib Invalid path '/shared_folder/Lab_2' (cds.lib command ignored).
+DEFINE mylib /home/client04/Yogender/mylib
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,7): cds.lib Invalid path '/home/client04/Yogender/mylib' (cds.lib command ignored).
+DEFINE Lab_2	/shared_folder/Lab_2
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,6): cds.lib Invalid path '/shared_folder/Lab_2' (cds.lib command ignored).
+DEFINE mylib /home/client04/Yogender/mylib
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,7): cds.lib Invalid path '/home/client04/Yogender/mylib' (cds.lib command ignored).
+DEFINE Lab_2	/shared_folder/Lab_2
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,6): cds.lib Invalid path '/shared_folder/Lab_2' (cds.lib command ignored).
+DEFINE mylib /home/client04/Yogender/mylib
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,7): cds.lib Invalid path '/home/client04/Yogender/mylib' (cds.lib command ignored).
+DEFINE Lab_2	/shared_folder/Lab_2
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,6): cds.lib Invalid path '/shared_folder/Lab_2' (cds.lib command ignored).
+DEFINE mylib /home/client04/Yogender/mylib
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,7): cds.lib Invalid path '/home/client04/Yogender/mylib' (cds.lib command ignored).
+DEFINE Lab_2	/shared_folder/Lab_2
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,6): cds.lib Invalid path '/shared_folder/Lab_2' (cds.lib command ignored).
+DEFINE mylib /home/client04/Yogender/mylib
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,7): cds.lib Invalid path '/home/client04/Yogender/mylib' (cds.lib command ignored).
+Recompiling... reason: file './testbench.v' is newer than expected.
+	expected: Mon Sep 22 13:02:20 2025
+	actual:   Mon Sep 22 13:04:13 2025
+DEFINE Lab_2	/shared_folder/Lab_2
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,6): cds.lib Invalid path '/shared_folder/Lab_2' (cds.lib command ignored).
+DEFINE mylib /home/client04/Yogender/mylib
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,7): cds.lib Invalid path '/home/client04/Yogender/mylib' (cds.lib command ignored).
+DEFINE Lab_2	/shared_folder/Lab_2
+|
+xmvlog: *W,DLCPTH (/home/Group4/cds.lib,6): cds.lib Invalid path '/shared_folder/Lab_2' (cds.lib command ignored).
+DEFINE mylib /home/client04/Yogender/mylib
+|
+xmvlog: *W,DLCPTH (/home/Group4/cds.lib,7): cds.lib Invalid path '/home/client04/Yogender/mylib' (cds.lib command ignored).
+file: testbench.v
+	module worklib.tb_top:v
+		errors: 0, warnings: 0
+	Total errors/warnings found outside modules and primitives:
+		errors: 0, warnings: 2
+DEFINE Lab_2	/shared_folder/Lab_2
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,6): cds.lib Invalid path '/shared_folder/Lab_2' (cds.lib command ignored).
+DEFINE mylib /home/client04/Yogender/mylib
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,7): cds.lib Invalid path '/home/client04/Yogender/mylib' (cds.lib command ignored).
+DEFINE Lab_2	/shared_folder/Lab_2
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,6): cds.lib Invalid path '/shared_folder/Lab_2' (cds.lib command ignored).
+DEFINE mylib /home/client04/Yogender/mylib
+|
+xrun: *W,DLCPTH (/home/Group4/cds.lib,7): cds.lib Invalid path '/home/client04/Yogender/mylib' (cds.lib command ignored).
+DEFINE Lab_2	/shared_folder/Lab_2
+|
+xmelab: *W,DLCPTH (/home/Group4/cds.lib,6): cds.lib Invalid path '/shared_folder/Lab_2' (cds.lib command ignored).
+DEFINE mylib /home/client04/Yogender/mylib
+|
+xmelab: *W,DLCPTH (/home/Group4/cds.lib,7): cds.lib Invalid path '/home/client04/Yogender/mylib' (cds.lib command ignored).
+		Caching library 'worklib' ....... Done
+	Elaborating the design hierarchy:
+	Top level design units:
+		tb_top
+	Building instance overlay tables: .................... Done
+	Generating native compiled code:
+DEFINE Lab_2	/shared_folder/Lab_2
+|
+xmvlog_cg: *W,DLCPTH (/home/Group4/cds.lib,6): cds.lib Invalid path '/shared_folder/Lab_2' (cds.lib command ignored).
+DEFINE mylib /home/client04/Yogender/mylib
+|
+xmvlog_cg: *W,DLCPTH (/home/Group4/cds.lib,7): cds.lib Invalid path '/home/client04/Yogender/mylib' (cds.lib command ignored).
+		worklib.decoder_4_to_10:v <0x7ef456a5>
+			streams:   1, words:  2415
+		worklib.compare_n_out:v <0x10a94e45>
+			streams:   1, words:   167
+		worklib.compare_n_out:v <0x4771820e>
+			streams:   1, words:   281
+		worklib.ReLU_19bit:v <0x63b6ad7c>
+			streams:   1, words:   242
+		worklib.ReLU_10bit:v <0x29d41573>
+			streams:   1, words:   242
+		worklib.adder_10to10:v <0x2e3187c8>
+			streams:   2, words:   388
+		worklib.adder_10to10:v <0x10b681b2>
+			streams:   2, words:   296
+		worklib.adder_9to10:v <0x40a470f7>
+			streams:   1, words:   179
+		worklib.adder_8to9:v <0x7cb2ab0c>
+			streams:   1, words:   179
+		worklib.adder_7to8:v <0x4c54d703>
+			streams:   1, words:   179
+		worklib.adder_6to7:v <0x0fa58b5c>
+			streams:   1, words:   173
+		worklib.adder_5to6:v <0x6502cea1>
+			streams:   1, words:   173
+		worklib.mytop:v <0x34d0df52>
+			streams:   3, words:   813
+		worklib.tb_top:v <0x6b263d6e>
+			streams:   7, words: 12172
+		worklib.layer1:v <0x5e01b561>
+			streams:  37, words: 911003
+		worklib.layer2:v <0x64db5d4d>
+			streams:  36, words: 36926
+		worklib.find_max_index:v <0x16913a2f>
+			streams:  23, words:  5734
+		worklib.multiplier9514:v <0x298d1a92>
+			streams:   6, words:  1163
+	Building instance specific data structures.
+	Loading native compiled code:     .................... Done
+	Design hierarchy summary:
+		                    Instances  Unique
+		Modules:                5,345      16
+		Registers:                 18      18
+		Scalar wires:              13       -
+		Expanded wires:        26,560   5,220
+		Vectored wires:        13,638       -
+		Always blocks:              6       6
+		Initial blocks:             3       3
+		Cont. assignments:     13,314   5,386
+		Pseudo assignments:       204       -
+		Process Clocks:             5       2
+		Simulation timescale:     1ns
+	Writing initial simulation snapshot: worklib.tb_top:v
+DEFINE Lab_2	/shared_folder/Lab_2
+|
+xmsim: *W,DLCPTH (/home/Group4/cds.lib,6): cds.lib Invalid path '/shared_folder/Lab_2' (cds.lib command ignored).
+DEFINE mylib /home/client04/Yogender/mylib
+|
+xmsim: *W,DLCPTH (/home/Group4/cds.lib,7): cds.lib Invalid path '/home/client04/Yogender/mylib' (cds.lib command ignored).
+xmsim: *W,NOMTDGUI: Multi-Threaded Dumping is disabled for interactive debug mode.
+SVSEED default: 1
+
+-------------------------------------
+Relinquished control to SimVision...
+xcelium> 
+xcelium> source /opt/XCELIUM2409/tools/xcelium/files/xmsimrc
+xcelium> database -open waves -into waves.shm -default
+Created default SHM database waves
+xcelium> probe -create -shm tb_top.clk tb_top.correct tb_top.done tb_top.expected_label tb_top.final_out_index tb_top.final_out_onehot tb_top.i tb_top.incorrect tb_top.j tb_top.labels_mem tb_top.max tb_top.pixel_mem tb_top.rst_n tb_top.test_in tb_top.updown
+Created probe 1
+xcelium> scope -set tb_top.dut.dut
+xcelium> run
+==========================================================
+Simulation Started: Applying active-low reset...
+Reset released. Starting test cases.
+
+Test Case 342: Driving test set vector.
+input = 00fe1f8efc1c007000f001c00180030007003fff1c0018001800380030001000
+-->One-Hot Output: 0000000100
+  PASS: Output 0000000100 matches expected 0000000100
+
+Test Case 1451: Driving test set vector.
+input = 01fc03800e00180070006000e1f8c7bede07d803f803f803f80ef83c7ff80f00
+-->One-Hot Output: 0000001000
+  PASS: Output 0000001000 matches expected 0000001000
+
+Test Case 774: Driving test set vector.
+input = 0ff03c387008601838381c300f7003c00f707c1ce006c0078003e0033fff03f8
+-->One-Hot Output: 0000000010
+  PASS: Output 0000000010 matches expected 0000000010
+
+Test Case 1516: Driving test set vector.
+input = 00ff03870706070e073c0e780ffc07f81f803f80f1e0c0f0e03870381ef007c0
+-->One-Hot Output: 0000000010
+  PASS: Output 0000000010 matches expected 0000000010
+
+Test Case 1078: Driving test set vector.
+input = 01c003c00fc03ce078fff03fc01c00787ffc1ff807800f000e003c0038003000
+-->One-Hot Output: 0000000100
+  PASS: Output 0000000100 matches expected 0000000100
+
+Test Case 319: Driving test set vector.
+input = 003c00f001c007800e001e0039f83f8e7c037003f003f003f00ef81cdff883c0
+-->One-Hot Output: 0000001000
+  PASS: Output 0000001000 matches expected 0000001000
+
+Test Case 1264: Driving test set vector.
+input = 0007001f003f00fe01ec079c0f381c307c30f060c0e000e000c0018000c000c0
+-->One-Hot Output: 0100000000
+  PASS: Output 0100000000 matches expected 0100000000
+
+Test Case 550: Driving test set vector.
+input = fe00fe000600060006000600060006000600ffff031f03000300018001800380
+-->One-Hot Output: 0000000100
+  PASS: Output 0000000100 matches expected 0000000100
+
+Test Case 350: Driving test set vector.
+input = fff01078001800380078007000e0fde0ffc07fff0380078007c007c007800780
+-->One-Hot Output: 0000000100
+  PASS: Output 0000000100 matches expected 0000000100
+
+Test Case 889: Driving test set vector.
+input = 7fc0e0e040e000e000e001c0038007000e001c0038007000e000c000ffff7fc0
+-->One-Hot Output: 0010000000
+  PASS: Output 0010000000 matches expected 0010000000
+
+Test Case 970: Driving test set vector.
+input = 300060006000c000c060c060c060c06370fe7ff000e000c000c000c000c00040
+-->One-Hot Output: 0000100000
+  PASS: Output 0000100000 matches expected 0000100000
+
+Test Case 1309: Driving test set vector.
+input = 0fc01ee07c60e060fce000c000c0018003800300070006000c001c071ffc0f00
+-->One-Hot Output: 0010000000
+  PASS: Output 0010000000 matches expected 0010000000
+
+Test Case 184: Driving test set vector.
+input = 073f7c73e063c06ee0787ff00630003800380018001800180038003800380030
+-->One-Hot Output: 0000000001
+  PASS: Output 0000000001 matches expected 0000000001
+
+Test Case 1390: Driving test set vector.
+input = 01c007c00e6018607860e060c0608060f0607fff0060006000e000e000e000c0
+-->One-Hot Output: 0000100000
+  PASS: Output 0000100000 matches expected 0000100000
+
+Test Case 7: Driving test set vector.
+input = 0ff81c4c380e30066002e003e003c003c003c003c003e003e00e783e3ff80e00
+-->One-Hot Output: 1000000000
+  PASS: Output 1000000000 matches expected 1000000000
+correct:    15, incorrect:     0
+
+==========================================================
+Simulation Finished.
+Simulation complete via $finish(1) at time 810 NS + 0
+./testbench.v:116         $finish;
+xcelium> run
+xmsim: *E,RNFNSH: Cannot continue simulation due to a previous $finish.
+xcelium> 
